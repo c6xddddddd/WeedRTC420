@@ -1,0 +1,44 @@
+body {
+	background-image: url("hanf-blatt-cannabis-dope-weed-420-symbol.jpg");
+}
+
+.Weed420 {
+
+	height:80vh;
+  	width:100vh;
+	border: 10px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 2px;
+
+}
+
+marquee {
+	  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	font-family: Comic Sans MS;
+	font-size:55px;
+
+
+}
+
+h1 {
+	color:white;
+	font-family: Comic Sans MS;
+}
+
+a {
+	border-color:white
+	border:4px;
+	background-
+	color:white;
+	font-family: Comic Sans MS;
+	font-size:80px;
+	border: 5px;
+	text-decoration:none;
+	  text-decoration: none;
+  color:white;
+ 
+
+}
